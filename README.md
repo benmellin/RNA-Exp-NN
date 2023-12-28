@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # A Fully Connected Deep Learning Network to Determine Cancer Tumor Variety Given Patient Gene Expression
 
 - This is a fully connected deep learning network to determine cancer tumor variety given patient gene expression.
