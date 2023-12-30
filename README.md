@@ -1,8 +1,8 @@
 # A Fully Connected Deep Learning Network to Determine Cancer Tumor Variety Given Patient Gene Expression
 
 - This is a fully connected deep learning network to determine cancer tumor variety given patient gene expression.
-- The dataset link can be found [here.](https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq)
-- The original colab notebook can be found [here.](https://colab.research.google.com/drive/1DMKSRt5Wa_99qMqR4O3uyabkCuEHK_nI?usp=sharing)
+- The dataset link can be found [here.](https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq){:target="_blank"}
+- The original colab notebook can be found [here.](https://colab.research.google.com/drive/1DMKSRt5Wa_99qMqR4O3uyabkCuEHK_nI?usp=sharing){:target="_blank"}
 - The dataset contains data from 801 patients and gene expression levels of 20,531 genes.
 - Patients have one of five tumors in this dataset: Breast invasive carcinoma (BRCA), Kidney renal clear cell carcinoma (KIRC), Colon adenocarcinoma (COAD), Lung adenocarcinoma (LUAD), and Prostate adenocarcinoma (PRAD).
 - The goal is to classify the patient by which tumor they have given their gene expression levels.
